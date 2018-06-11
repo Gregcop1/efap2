@@ -1,0 +1,7 @@
+<ul>
+  <li *ngFor="let group of groups" [style.background-image]="'url(' + group.thumb +')'">
+    <a [routerLink]="['/groupe-' + group.id]">
+      <span class="title">{{ group.title }}</span>
+    </a>
+  </li>
+</ul>
