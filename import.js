@@ -1,7 +1,7 @@
 const fs = require('fs');
 const git = require('simple-git');
 const request = require('request');
-const config = require('./src/config');
+const config = require('./src/config/config.json');
 const params = process.argv.slice(2)
   .reduce((last, current) => {
     const [key, value] = current.split('=');
