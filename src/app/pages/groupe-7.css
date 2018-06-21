@@ -1,0 +1,51 @@
+img
+{
+float: right;
+}
+h1 {
+  color :red;
+  font-weight :bold;
+  text-align: center;
+  text-decoration:underline;
+  font-style: oblique;
+}
+
+p:first-letter {
+  color:red;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+blockquote {
+  color: white;
+  text-align: center;
+}
+
+body{
+background-color:black;
+}
+
+p {  color :white;}
+
+IMG.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
+
+hr {
+  width="25%";
+  color: red;
+}
+body {
+    background-color: black; 
+}
+blockquote
+{
+    font-family: Impact, "Arial Black", Arial, Verdana, sans-serif;
+}
+blockquote {
+    font-size: 16px; /* Titres de 40 pixels */
+}
+blockquote {
+    border: 3px red solid;
+}
