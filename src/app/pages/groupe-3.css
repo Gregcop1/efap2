@@ -1,0 +1,67 @@
+
+.titre
+{
+  color:#CD5C5C;font-size:200%; text-align: center;
+}
+.p1 {margin-top:70px}
+
+p
+{
+  color:#696969;
+}
+.festival
+{
+  color:#9ACD32
+
+}
+h3
+{
+  color:#CD5C5C
+}
+h2
+{
+  color:
+}
+.fin
+{
+  color :#CD5C5C; font-size: 300%; font-weight: bold;text-align:center
+}
+
+.p {
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.intro {display:inline-block;width:45%;vertical-align:top;font-size:180%;text-align:justify;text-indent:50px}
+
+  .image1 {display:inline-block;width:45%;margin-bottom:40px}
+
+
+.dentelle {display:inline-block;width:40%;vertical-align:top;font-size:200%;text-align:justify;text-indent:50px}
+
+.image2{display:inline-block;width:45%;margin-bottom:20px}
+
+.image3 {display:inline-block;width:45%;margin-top:-100px}
+
+.textekimono {display:inline-block;width:45%;vertical-align:top;font-size:180%;text-align:justify;text-indent:50px;margin-top:130px}
+
+.titre4 {
+  font-size: 200%; font-weight: bold;margin-top:-5px;left: 400px;right: 200px;
+}
+
+.image4 {display:inline-block;width:45%;margin-bottom:60px}
+
+
+
+.texteimage4 {display:inline-block;width:40%;vertical-align:top;font-size:180%;text-align:justify;text-indent:50px;float:right;padding-top:10%;margin-right:60px;margin-top:50px}
+
+.bonplan { font-size:200%}
+
+.titredentelle { font-size:200% ;position: absolute ;left: 400px;right: 200px ;margin-top:-10px}
+
+.raffinee { margin-top:50px;font-weight:bold;font-size:150%}
+
+.titrekimono {font-weight:bold;font-size:200%;left: 400px;right: 200px ;margin-top:25px}
+
+body {background-color:#FAF0E6}
+
