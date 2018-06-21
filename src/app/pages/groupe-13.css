@@ -1,0 +1,23 @@
+.container-with-image {background-image: url("https://scontent-sea1-1.cdninstagram.com/vp/591983cc93b0082ba4c2be6930371701/5B97B3D6/t51.2885-15/e35/13388544_1718841445024168_969996606_n.jpg?se=7&ig_cache_key=MTI2NTMxMzc3NDU1OTQ3NzcwNQ%3D%3D.2"); text-align: center; padding-top: 50px; padding-bottom: 50px}
+
+.container-with-color {background: mistyrose; width: 60%; margin-left: auto; margin-right: auto}
+
+body { font-family: Helvetica; color:dimgrey }
+
+h1 { font-size: 250%; font-family: URW Chancery L, cursive }
+
+img {width: 250px}
+
+.haut {display: inline-block; width: 45%; vertical-align: top;}
+
+.premiere {display: inline-block; width: 45% }
+.deux {display: inline-block; width: 45%}
+
+.deuxieme {display: inline-block}
+
+.trois {display: inline-block; width: 45%}
+
+.burger {display: inline-block}
+
+.cinq {font-size: 80% }
+
