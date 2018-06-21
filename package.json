@@ -9,7 +9,7 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "deploy": "yarn build && git subtree push --prefix dist origin gh-pages"
+    "deploy": "ng build --prod --base-href 'https://gregcop1.github.io/efap2/' && ngh"
   },
   "private": true,
   "dependencies": {
