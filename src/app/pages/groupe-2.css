@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat');
-  
-body {background-color:rgb(225,225,225); font-family: 'Montserrat', sans-serif;} 
+
+body {background-color:rgb(225,225,225); font-family: 'Montserrat', sans-serif;}
 .column { display: inline-block; width: 40%; vertical-align: top; text-align:justify; }
 
 .toHide{ position: absolute; left: -9999px; }
@@ -33,6 +33,6 @@ p:first-of-type:first-letter {
 }
 .conteneur-temoignage { text-align: center; }
 
-.fin  { 
+.fin  {
   text-align: left;
 margin: Opx;}
