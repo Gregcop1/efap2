@@ -1,8 +1,6 @@
 import {Routes} from '@angular/router';
 import { ListComponent } from '../app/list/list.component';
 import {
-  Single1Component,
-  Single2Component,
   Single3Component,
   Single4Component,
   Single5Component,
@@ -17,10 +15,10 @@ import {
   Single15Component,
   Single16Component,
 } from '../app/single';
+import { SingleViewComponent } from '../app/single-view/single-view.component';
 
 export const routes: Routes = [
-  { path: 'groupe-1', component: Single1Component },
-  { path: 'groupe-2', component: Single2Component },
+  { path: 'groupe/:id', component: SingleViewComponent },
   { path: 'groupe-3', component: Single3Component },
   { path: 'groupe-4', component: Single4Component },
   { path: 'groupe-5', component: Single5Component },

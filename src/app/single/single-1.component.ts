@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 
 @Component({
-  selector: 'app-single',
+  selector: 'app-single-1',
   templateUrl: '../pages/groupe-1.html',
   styleUrls: ['../pages/groupe-1.css']
 })

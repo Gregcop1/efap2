@@ -1,6 +1,6 @@
 ul { display: flex; flex-wrap: wrap; margin: 0; padding: 0; }
 li {
-  position: relative; border: 10px solid #fafafa; margin: 10px; width: calc(25% - 20px); height: 200px; background-repeat: no-repeat; background-position: 50% 50%; background-size: cover; list-style-type: none; overflow: hidden;
+  position: relative; border: 10px solid #fafafa; margin: 10px; width: calc(33% - 20px); height: 250px; background-repeat: no-repeat; background-position: 50% 50%; background-size: cover; list-style-type: none; overflow: hidden;
   font-size: 1.3em;
 }
 a {

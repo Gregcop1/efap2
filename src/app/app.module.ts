@@ -22,6 +22,8 @@ import {
   Single15Component,
   Single16Component,
 } from './single';
+import { SingleViewComponent } from './single-view/single-view.component';
+import { MenuComponent } from './menu/menu.component';
 
 @NgModule({
   declarations: [
@@ -42,6 +44,8 @@ import {
     Single14Component,
     Single15Component,
     Single16Component,
+    SingleViewComponent,
+    MenuComponent,
   ],
   imports: [
     BrowserModule,

@@ -1,0 +1,4 @@
+<div #menu class="menu" [ngClass]="{'menu--opened': opened}">
+  <h2 (click)="toggleDisplay()">{{opened ? 'Cacher les articles' : 'Voir les autres articles'}}</h2>
+  <app-list class="list" (onClick)="click()"></app-list>
+</div>
