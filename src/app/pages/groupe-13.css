@@ -1,23 +1,23 @@
-.container-with-image {background-image: url("https://scontent-sea1-1.cdninstagram.com/vp/591983cc93b0082ba4c2be6930371701/5B97B3D6/t51.2885-15/e35/13388544_1718841445024168_969996606_n.jpg?se=7&ig_cache_key=MTI2NTMxMzc3NDU1OTQ3NzcwNQ%3D%3D.2"); text-align: center; padding-top: 50px; padding-bottom: 50px}
+.container-flex {
+  display: flex; align-items:center;
+}
 
-.container-with-color {background: mistyrose; width: 60%; margin-left: auto; margin-right: auto}
 
-body { font-family: Helvetica; color:dimgrey }
+.container-with-image {background: url("https://scontent-sea1-1.cdninstagram.com/vp/591983cc93b0082ba4c2be6930371701/5B97B3D6/t51.2885-15/e35/13388544_1718841445024168_969996606_n.jpg?se=7&ig_cache_key=MTI2NTMxMzc3NDU1OTQ3NzcwNQ%3D%3D.2") center no-repeat; background-size: cover; text-align: center; padding-top: 50px; padding-bottom: 50px; color:dimgrey;}
+
+.container-with-color { padding: 20px; background: mistyrose; width: 60%; margin-left: auto; margin-right: auto; font-family: Helvetica;}
 
 h1 { font-size: 250%; font-family: URW Chancery L, cursive }
 
 img {width: 250px}
 
-.haut {display: inline-block; width: 45%; vertical-align: top;}
+.haut {width: 50%}
 
-.premiere {display: inline-block; width: 45% }
-.deux {display: inline-block; width: 45%}
+.premiere {width: 50% }
 
-.deuxieme {display: inline-block}
+.deux { width: 50%}
 
-.trois {display: inline-block; width: 45%}
-
-.burger {display: inline-block}
+.trois { width: 50%}
 
 .cinq {font-size: 80% }
 
