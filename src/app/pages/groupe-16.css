@@ -1,7 +1,8 @@
-h1 {text-align:center; color:blue}
-.intro {text-align:center; font-style}
-.yatch{display: inline-block; width: 100%;} 
-h2 {color:blue}
-.yatch{ position: relative; color:black; border-top-width:3pt;}
-.toto { position: absolute; top: 575px; ; background: white; border-width:5px;border-color:black;border-style:solid; height:450px;width:300px}
-
+.header { height: 300px; background: url('https://scontent-cdt1-1.xx.fbcdn.net/v/t1.0-9/35634063_2014993808574837_6701898583932665856_o.jpg?_nc_cat=0&oh=85c23846860eb7d85747c47c3c046dfa&oe=5BBD0418') center no-repeat; background-size: cover; }
+.paragraphe1 {font-family:Arial;text-align:center}
+.petitnom {font-family:Arial;font-size:24px;}
+.toto {font-family:Arial;top: 1179px;background: white; border-width:5px ;border-color:white ;border-style:solid; height:360px;width:400px;font-family:Arial;display: inline-block; }
+.bbb {font-family:Arial;font-size:24px}
+.nom {left:900px;font-family:Arial;text-align:justify;border-width:5px;border-color:white;border-style:solid;height:380px;width:400px;}
+.nomnom {font-family:Arial;font-size:24px}
+.tolo {font-family:Arial;top: 1179px;background: white; border-width:5px ;border-color:white ;border-style:solid; height:340px;width:400px;font-family:Arial;text-align:justify;}
