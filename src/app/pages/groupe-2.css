@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+  
+body {background-color:rgb(225,225,225); font-family: 'Montserrat', sans-serif;} 
+.column { display: inline-block; width: 40%; vertical-align: top; text-align:justify; }
+
+.toHide{ position: absolute; left: -9999px; }
+
+h1{color: #2E8B57}
+h2{color: #2E8B57}
+
+.serena {
+width:1500px;
+height:600px;
+}
+
+p:first-of-type:first-letter {
+  float:left;
+  font-size: 3em;
+  padding: 0.001em 0.1em 0 0;
+}
+
+.titre {
+    position:absolute;
+    left: 20px;
+    top: 250px;
+    font-size: 90px;
+    color:#FFFFFF;
+}
+
+.temoignage {
+  margin: 0 auto; padding: 0; width: 70%;
+  text-align: left;
+}
+.conteneur-temoignage { text-align: center; }
+
+.fin  { 
+  text-align: left;
+margin: Opx;}
