@@ -1,0 +1,13 @@
+img { max-width: 100%}
+h1 {color:#f79216 ; text-align: center}
+.container-article { text-align: center; }
+.toto { margin: 0 auto; width: 500px; color:#0c0c0c; text-align: left}
+@import url('https://fonts.googleapis.com/css?family=Lato');
+.toto2{border: 10px ; solid : #0c0c0c;color:#f79216; font-style:italic}
+
+.gorilla  {color:#f79216; font-style:italic}
+
+img {display : block; margin-left: auto; margin-right : auto; widht : 50%}
+
+
+.liste {color:#f79216; font-style:italic}
