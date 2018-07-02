@@ -1,0 +1,30 @@
+.body { background:url("https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Soccer_Field_Transparant.svg/1200px-Soccer_Field_Transparant.svg.png"); background-size: contain }
+p {margin: 40px}
+div {font-size: 250% ;text-align:center; background:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2A1VgiYTK4C2UGlxb2XjvYHlbSd1COBu9dVOAQic2j5_if9KwAw) center no-repeat; background-size: cover; }
+h1 {color:#000000; text-align:center; font-size: 265%; font-family:American Typewriter, serif}
+h1 {
+ border-width:5px;
+ border-style:groove;
+ border-color:black;
+ }
+h2, h3 {color:#000000; text-align:center}
+h2 {font-size: 250%; font-family: American Typewriter, serif; border-width:2px;
+ border-style:groove;
+ border-color:black;
+ }
+h3 {font-size: 200%; font-family: American Typewriter, serif; border-width:2px;
+ border-style:groove;
+ border-color:black;
+ }
+p {text-align:center; font-size:120%;}
+blockquote {text-align:center; font-size: 80%; font-weight: bolder; margin-left: auto; margin-right: auto;
+    width:360px;
+    background-image:url(https://www.mpadeco.com/thumb.php?zc=3&f=0&src=/sites/mpadeco/files/products/d735.png&fl=none&w=360&h=360); background-repeat: no-repeat;
+    height:360px;
+    border-radius:100px;
+    line-height: 90px;}
+.premier {font-style:italic; text-align:center; font-weight: bolder; font-size: 135%}
+.trois {text-align:center}
+.quatre {font-weight: bolder}
+.cinq {font-style:italic;}
+ .six {position: relative ; text-align: center}
