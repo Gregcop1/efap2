@@ -1,0 +1,42 @@
+body {
+ font-family:arial, sans-serif;
+ font-size:100%;
+   color:#000000;
+    background-color: white;
+   width: 80%;
+  margin: auto;
+  background-image: url("https://st2.depositphotos.com/2767472/7348/i/950/depositphotos_73486875-stock-photo-geometric-triangle-mosaic-background-graphic.jpg")
+}
+
+img { max-width: 100%; }
+
+h1 {
+  font-family:verdana, sans serif;
+ font-size:200%;
+  color:#FFFFFF;
+    text-align: center;
+ }
+h2 {
+ font-family:verdana, sans serif;
+ font-size:200%;
+ color:#ED0000;
+  text-align: center;
+ }
+p
+{
+    text-align: justify;
+}
+.titres
+{
+   font-style: italic;
+}
+.acteurs
+{
+   font-weight: bold;
+}
+.photo
+{
+   text-align: center;
+}
+
+.header { background: url(https://besthqwallpapers.com/Uploads/25-3-2018/45711/thumb2-red-sparrow-2018-4k-photoshoot-jennifer-lawrence.jpg) no-repeat center; background-size: cover; padding-top: 600px; padding-bottom: 200px; text-align: center; }
